@@ -3,8 +3,6 @@
 cd9440b2:120
 
 #admin lthanh
-c6skkjtw89pzdmzx:120
-#admin lthanh
 c6skkjtw89pzdmzx:220
 
 #huybot
